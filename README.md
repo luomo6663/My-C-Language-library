@@ -1,2 +1,5 @@
 # My-C-Language-library
-it is my learning path for C language,which regrads my experience
+这是我自己对于C语言学习的一些理解，也可以说是我的学习笔记。
+希望我能善始善终，做到最好。也希望能够帮助到你们。
+如果想要一起学习交流，请email我
+>>3478301297@qq.com
